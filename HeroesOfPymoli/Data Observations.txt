@@ -4,25 +4,27 @@ As one may expect, the player population base is overwhelmingly
 majority male, but females actually have higher values for average
 purchase price and average total purchase per person.
 
-Another interesting observation is that among the age demographics of
-players, the age range for players under the age of 10 and age range
-35-39 make up a small percentage of players but have the highest values 
-for average purchase price and average total purchase per person 
-(perhaps parents are playing and buying items for the kids).
+Another interesting and unexpected observation is that among the age 
+demographics of players, the age range for players under the age of 10 
+and age range 35-39 make up a small percentage of players but have the 
+highest values for average purchase price and average total purchase
+per person (perhaps parents are playing with their kids 
+and buying items for the kids).
 
 These observations can perhaps suggest how the game company can
 focus advertising on certain demographics. As a free-to-play game,
 it is important to increase the player base, but ultimately
 profit is generated from players who are willing to spend money 
-on in game content. Contrary to what we may expect from gaming culture,
-we see that females are just as committed and invested in the game, and
-are spending money on in game items.
+on in-game content. Contrary to what we may expect from gaming culture,
+we observe that females are just as committed and invested in the game, and
+are spending money on in-game items. We also observe potential for
+higher profits in unexpected age ranges as well.
 
-In the data analysis of in game purchased items, the top 10 most 
-profitable items were somewhere within the $4 range and had a purchase count of at
-least 7. There was one specific item with a purchase count of 8 but the
+In the data analysis of in-game purchased items, the top 10 most 
+profitable items were somewhere within the $4 range and had a purchase count 
+of at least 7. There was one specific item with a purchase count of 8 but the
 purchase price was only $1.02. Perhaps the company should revalue
-and increase the cost of some of the items with high purchase counts but
+and increase the cost of some of the items with high purchase counts
 but low cost considering many other items with high purchase counts 
 were closer to $4. 
 
